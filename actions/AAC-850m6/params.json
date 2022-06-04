@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "Nova Janela",
+    "fields": {
+        "AAD": {
+            "caption": "URL",
+            "doc": "Entre com uma URL Completa: (Ex: https://www.google.com)",
+            "editor": "DynamicValue",
+            "name": "url",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

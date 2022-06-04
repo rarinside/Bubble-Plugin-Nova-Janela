@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "productivity"
+    },
+    "description": "Plugin para abrir uma nova janela.\n\n\nSuporte: suporte@rardev.io",
+    "image": "//s3.amazonaws.com/appforest_uf/f1654384101413x323896548270563300/Foto%20Perfil.jpg",
+    "license": "open_source",
+    "name": "Nova Janela",
+    "plugin_instructions": "Com esse plugin você consegue abrir um link, abrindo em outra janela."
+}
